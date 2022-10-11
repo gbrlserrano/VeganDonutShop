@@ -2,7 +2,7 @@
 *(building a websites for beginners)*
 
 This repository was created from Brad Hussey's class "Build Websites from Scratch with HTML & CSS" at Udemy,
-using a fictional donut shop to improve knowledge and practicing some good CSS and HTML5 content :joy:
+using a fictional donut shop to improve knowledge and practicing some good CSS and HTML5 content :slightly_smiling_face:
 
 *the javaScript code there was just to adapt the code to old browsers using the Modernizr*
 
